@@ -1,7 +1,6 @@
 # Unsupervised-ML-PCA-T-SNE-
 
 Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE) are both popular dimensionality reduction techniques used in data analysis and visualization.
-
 1. Principal Component Analysis (PCA):
 Objective:
 PCA is used to reduce the dimensionality of high-dimensional data while preserving the most important information.
